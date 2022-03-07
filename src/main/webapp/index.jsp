@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="stylesheet" href="stylesheet.css">
 
-    <title>Ijssalon</title>
+    <title>Ijssalon1</title>
 </head>
 
 <body>
