@@ -10,6 +10,8 @@
     <title>Ijssalon1</title>
 </head>
 
+
+
 <body>
 <img src="Photos/icecream.jpg" alt="Icecream" id="Photo1">
 <header>
